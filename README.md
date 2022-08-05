@@ -11,4 +11,4 @@ git clone https://github.com/TEAM-KRS/BYPASS-STORE.git
 
 cd BYPASS-STORE
 
-python Bypass.py
+python bypass.py
